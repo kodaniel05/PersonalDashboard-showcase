@@ -1,5 +1,7 @@
 # Personal Dashboard Showcase
 
+![Dashboard Home](images/screenshots/dashboard-home.png)
+
 A polished, privacy-first showcase of a customizable personal operating dashboard for planning, finance, memories, travel, relationships, and daily context.
 
 > This repository is a public portfolio case study. It documents the product, architecture, and engineering decisions without exposing the private application source code, secrets, database details, or proprietary implementation logic.
@@ -45,31 +47,6 @@ Personal information is usually scattered across notes apps, calendars, spreadsh
 
 ## Screenshots
 
-> Replace these placeholder files with sanitized screenshots from a demo dataset. Avoid screenshots containing private names, account data, real documents, API responses, client information, or sensitive personal content.
-
-![Dashboard Home](images/screenshots/dashboard-home.png)
-Caption: Add a screenshot of the Home view showing the daily snapshot, daily capture, and overview widgets with sanitized data.
-
-![Productivity View](images/screenshots/productivity-view.png)
-Caption: Add a screenshot of the planning workspace with today’s plan, important dates, term practice, and document vault visible.
-
-![Finance View](images/screenshots/finance-view.png)
-Caption: Add a screenshot of the finance workspace showing savings, paycheck prediction, and a demo market watchlist.
-
-![Personal View](images/screenshots/personal-view.png)
-Caption: Add a screenshot of the personal dashboard layout with reflection, bucket list, good moments, playlist, and timeline cards.
-
-![Relationships View](images/screenshots/relationships-view.png)
-Caption: Add a screenshot showing sanitized keepsakes, call log summaries, time-zone planning, and relationship-focused widgets.
-
-![Explore View](images/screenshots/explore-view.png)
-Caption: Add a screenshot of the travel map and food adventure tracking widgets with fictional or sanitized entries.
-
-![Document Vault](images/screenshots/document-vault.png)
-Caption: Add a close-up of the document vault using fake document names and placeholder files.
-
-![Live Market Watchlist](images/screenshots/live-market-watchlist.png)
-Caption: Add a close-up of the watchlist UI using public ticker symbols and no private account data.
 
 ## Feature Walkthrough
 
